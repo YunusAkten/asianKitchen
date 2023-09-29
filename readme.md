@@ -4,7 +4,11 @@
 
 ### Önizleme
 
-<video src="assets/onizleme.mp4" controls title="Title"></video>
+
+
+
+https://github.com/miknick/asianKitchen/assets/56681125/04eea27c-3f53-4400-92ed-145015902aed
+
 
 Color Palette
 
